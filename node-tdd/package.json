@@ -1,0 +1,11 @@
+{
+  "name": "node-tdd",
+  "version": "1.0.0",
+  "description": "Node Test Driven Development with Jasmine",
+  "author": "",
+  "license": "ISC",
+
+  "devDependencies": {
+    "jasmine-node": ""
+  }
+}

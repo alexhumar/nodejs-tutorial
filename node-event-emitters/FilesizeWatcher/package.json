@@ -1,0 +1,14 @@
+{
+  "name": "filesizewatcher",
+  "version": "1.0.0",
+  "description": "Creacion de un event emitter desde 0, para estudiar el patron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": ""
+  }
+}
